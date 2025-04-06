@@ -1,87 +1,60 @@
 ---
 layout: cv
-title: Kevin Peterson's - Data Science Portfolio 
+title: Kevin Peterson's - Resume 
 ---
 # Kevin Peterson
-Student
+**Student**
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Pet20043@byui.edu">Pet20043@byui.edu</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Data Science at BRigham Young University - Idaho
 
-### Specialized in
+## Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+SQL, Pandas, Python, and Statistics
 
 
-### Research interests
+## Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Statistics, Machine Learning, Artificial Intelligence and Video Game Development
+
+## Skills
+
+- Punctual and Reliable 
+- Teamwork 
+- Outgoing 
+- Attention to detail   
+- Workplace Cleanliness
+- Hardworking 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020 - 2021`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2023 - 2025`
+__Brigham Young University - Idaho__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019`
+__Eagle Scout__
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2010 - 2020`
+__Lead Cook__, Hawaii
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2023`
+__Warehouse Assossiate__, Utah 
 
 
 <!-- ### Footer
